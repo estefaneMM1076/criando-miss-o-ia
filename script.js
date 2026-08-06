@@ -13,8 +13,8 @@ const perguntas = [
                 afirmacao: "Auxiliar no diagnóstico de doenças "
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Ajudar no desenvolvimento de novos medicamentos"
+                texto: "Ajudar no desenvolvimento de novos medicamentos",
+                afirmacao: "Isso é maravilhoso!"
             }
         ]
     },
