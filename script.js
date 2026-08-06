@@ -22,8 +22,8 @@ const perguntas = [
         enunciado: "Quais áreas podem ser transformadas pela Inteligência Artificial?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "Educação"
+                texto: "Educação",
+                afirmacao: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento."
             },
             {
                 texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
@@ -35,8 +35,8 @@ const perguntas = [
         enunciado: "Quais são desafios relacionados ao avanço da Inteligência Artificial?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "Proteção da privacidade dos dados"
+                texto: "Proteção da privacidade dos dados",
+                afirmacao: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas."
             },
             {
                 texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
@@ -48,8 +48,8 @@ const perguntas = [
         enunciado: "Como a Inteligência Artificial pode ajudar no dia a dia?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Automatizando tarefas repetitivas"
+                texto: "Automatizando tarefas repetitivas",
+                afirmacao: "Criar uma imagem utilizando uma plataforma de design como o Paint."
             },
             {
                 texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
@@ -61,8 +61,8 @@ const perguntas = [
         enunciado: "Quais afirmações sobre a Inteligência Artificial são verdadeiras?",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Ela depende de dados para aprender e melhorar"
+                texto: "Ela depende de dados para aprender e melhorar",
+                afirmacao: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro."
             },
             {
                 texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
